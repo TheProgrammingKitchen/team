@@ -11,3 +11,13 @@ Team members will get intvited when ready.
 
 More information will be available until end of the year 2017.
 
+
+
+#### Stay tuned
+
+![The Programming Kitchen, Hacking Beautiful Code][logo]
+
+--Andi Altendorfer, July 27, 2017
+
+[logo]: https://s3.eu-central-1.amazonaws.com/iboard.core/static/beautifulcode.png
+
