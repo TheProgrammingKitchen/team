@@ -1,4 +1,4 @@
-## Welcome to The Programming Kitchen
+## Welcome to [The Programming Kitchen]
 
 You can use the [editor on GitHub](https://github.com/TheProgrammingKitchen/team/edit/master/index.md) to maintain and preview the content of this website in Markdown files.
 
@@ -22,5 +22,6 @@ There is a [ZenHub-Board] for this project.
 --Andi Altendorfer, July 27, 2017
 
 [logo]: https://s3.eu-central-1.amazonaws.com/iboard.core/static/beautifulcode.png
+[The Programming Kitchen]: https://theprogrammingkitchen.github.io/team/
 [ZenHub-Board]: https://app.zenhub.com/workspace/o/theprogrammingkitchen/team/
 
