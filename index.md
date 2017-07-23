@@ -11,7 +11,9 @@ Team members will get intvited when ready.
 
 More information will be available until end of the year 2017.
 
+### Agile Board
 
+There is a [ZenHub-Board] for this project. 
 
 #### Stay tuned
 
@@ -20,4 +22,5 @@ More information will be available until end of the year 2017.
 --Andi Altendorfer, July 27, 2017
 
 [logo]: https://s3.eu-central-1.amazonaws.com/iboard.core/static/beautifulcode.png
+[ZenHub-Board]: https://app.zenhub.com/workspace/o/theprogrammingkitchen/team/
 
