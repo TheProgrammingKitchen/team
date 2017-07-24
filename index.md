@@ -17,6 +17,10 @@ There is a [ZenHub-Board] for this project.
 
 #### Stay tuned
 
+Follow:
+* [Google+]
+* [Andi's Blog]
+
 ![The Programming Kitchen, Hacking Beautiful Code][logo]
 
 --Andi Altendorfer, July 27, 2017
@@ -25,3 +29,5 @@ There is a [ZenHub-Board] for this project.
 [The Programming Kitchen]: https://theprogrammingkitchen.github.io/team/
 [ZenHub-Board]: https://app.zenhub.com/workspace/o/theprogrammingkitchen/team/
 
+[Google+]: https://plus.google.com/+AltendorferAt
+[Andi's Blog]: http://iboard.cc
