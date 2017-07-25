@@ -25,6 +25,12 @@ Follow:
 
 --Andi Altendorfer, July 27, 2017
 
+----
+
+#Projects
+
+1. [APM - Agile Project Manager](https://theprogrammingkitchen.github.io/apm/)
+
 [logo]: https://s3.eu-central-1.amazonaws.com/iboard.core/static/beautifulcode.png
 [The Programming Kitchen]: https://theprogrammingkitchen.github.io/team/
 [ZenHub-Board]: https://app.zenhub.com/workspace/o/theprogrammingkitchen/team/
