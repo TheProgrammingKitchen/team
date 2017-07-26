@@ -4,14 +4,14 @@ You can use the [editor on GitHub](https://github.com/TheProgrammingKitchen/team
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Under Construction
+### Project State
 
 At the moment, _The Programming Kitchen_ is a project idea only.
 Team members will get intvited when ready.
 
 More information will be available until end of the year 2017.
 
-### Agile Board
+### Board
 
 There is a [ZenHub-Board] for this project. 
 
