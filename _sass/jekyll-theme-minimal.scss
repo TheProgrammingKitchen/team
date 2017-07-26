@@ -60,6 +60,7 @@ a:hover small {
   margin:0 auto;
 }
 
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -111,6 +112,16 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+header .menu-sidebar {
+  margin-bottom: 80px;
+  font-size: smaller;
+}
+
+header .menu-sidebar ol {
+  font-size: smaller;
+}
+
 
 header ul {
   list-style:none;
