@@ -18,8 +18,9 @@ There is a [ZenHub-Board] for this project.
 #### Stay tuned
 
 Follow:
-* [Google+]
-* [Andi's Blog]
+* [Google+][]
+* [Andi's Blog][]
+* [iBoard.cc@Slack][]
 
 ![The Programming Kitchen, Hacking Beautiful Code][logo]
 
@@ -37,3 +38,4 @@ Follow:
 
 [Google+]: https://plus.google.com/+AltendorferAt
 [Andi's Blog]: http://iboard.cc
+[iBoard.cc@Slack]: https://join.slack.com/t/iboardcc/shared_invite/enQtMjY3MjcyMjA5MDc3LWEzOTE0NTM3MjMyZmVlZjYzZjYzMjdkNzcwYjA3NzFkMGE0NDM1Yzk5ZWQzNDYyMjQ0M2Q1ZjM4NzQ1NjQwMTA
